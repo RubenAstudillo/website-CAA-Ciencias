@@ -1,0 +1,6 @@
+\
+<a href=@{HomeR}>Inicio
+\ | #
+<a href=@{EstatutosR}>Estatutos
+\ | #
+<a href=@{AboutR}>Sobre nosotros

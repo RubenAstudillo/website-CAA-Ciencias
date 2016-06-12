@@ -1,0 +1,8 @@
+$doctype 5
+<html>
+  <body>
+    <nav>
+      ^{navBar}
+    <article>
+      El centro de alumnos de ciencias de la USM necesitaba una pagina
+      que los representara, luego hice "algo".
